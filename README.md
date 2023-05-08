@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Aditya Mukati</h1>
 <h3 align="center">I love making Android apps</h3>
 
-- 🌱 I’m currently learning **Android Studio and DSA**
-
 - 👨‍💻 All of my projects are available at [github.com/Aadi61](github.com/Aadi61)
 
 - 📫 How to reach me **adityamukati8564@gmail.com**

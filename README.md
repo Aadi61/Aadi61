@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, I'm Aditya Mukati</h1>
-<h3 align="center">A passionate App developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi61" alt="aadi61" /></a> </p>
+<h3 align="center">I love making Android apps</h3>
 
 - 🌱 I’m currently learning **Android Studio and DSA**
 
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi61&show_icons=true&locale=en" alt="aadi61" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi61&" alt="aadi61" /></p>
-
